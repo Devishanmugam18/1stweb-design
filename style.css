@@ -121,31 +121,30 @@
 .heading
 {
     color:white;
-    padding:13px;
+    padding:11px;
     background-color:#01c0dc ;
     border: 8px solid white;
+    margin-top: 18px;
     border-radius: 0px;
 }
-.heading
-{
-    color:white;
-    padding:13px;
-    background-color:#01c0dc ;
-    border: 8px solid white;
-    border-radius: 0px;
-}
-img{    
-   
-}
+
 .sheading
 {
     color:#01c0dc;
+    margin-Bottom:5px;
+    padding:12px;
+    
     margin-left: 2px;
 }
 .para{
     color: rgba(0, 0, 0, 0.884);
-    padding:1px;
-    margin-left: 2px;
+    padding-left:12px;
+    padding-right:9px;
+    margin-top: 0px;
+    
+    
+    
+    
 }
 .more{
     text-decoration:none;
@@ -156,28 +155,28 @@ img{
     text-decoration:none;
     color:#01c0dc;
     color:#93bb3e;
-    padding:1px
+    padding-left:10px;
 }
 .heading2
 {
     color:white;
-    font-size: smaller;
-    padding:13px;
+    padding:11px;
     background-color:#01c0dc ;
     border: 8px solid white;
+    margin-top: 18px;
     border-radius: 0px;
 }
-img{    
-   
-}
+
 .sheading2
 {
     color:#01c0dc;
     margin-left: 2px;
+    
 }
 .para2{
     color: rgba(0, 0, 0, 0.884);
-    padding:1px;
+    
+    margin-top: 5px;
     margin-left: 2px;
 }
 .more2{
@@ -189,27 +188,29 @@ img{
     text-decoration:none;
     color:#01c0dc;
     color:#93bb3e;
-    padding:1px
+    
 }
 .heading3{
     color:white;
-padding:13px;
-background-color:#01c0dc ;
-border: 3px solid white;
-border-radius: 0px;
+    padding:10px;
+    background-color:#01c0dc ;
+    border: 8px solid white;
+    margin-top: 18px;
+    border-radius: 0px;
 }
 .para3{
-    color: rgba(0, 0, 0, 0.884);
-    padding:1px;
+    color: rgba(0, 0, 0, 0.884);   
     
 }
 .heading3f
-{
-    color:white;
-padding-left:0px;
-background-color:#01c0dc ;
-border-radius: 0px;
+{    color:white;
+    padding:5px;
+    background-color:#01c0dc ;
+    border: 8px solid white;   
+    border-radius: 0px;
+
 }
-.id{
-    color:#01c0dc;
+#noti ul li a
+{
+   color:#01c0dc;
 }
